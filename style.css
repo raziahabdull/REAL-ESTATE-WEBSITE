@@ -1,0 +1,279 @@
+.navlogo{
+    width: 130px;
+}
+#navdetails{
+    -webkit-text-fill-color: rgb(39, 38, 38);
+}
+.NAVBAR{
+    display:grid;
+    grid-template-columns: auto auto auto;
+}
+
+a{
+    padding: 20px;
+}
+.bluebutton{
+    align-self: center;
+    margin-top: 3%;
+    margin-left:25%;
+}
+.beachhouse{
+    border-radius: 20%,20%,;
+    margin-left: 20%;
+    width: 700px;
+    height:400px;
+    margin-top: 3%;
+}
+.trust{
+    width:100px
+}
+.reviews{
+ display: grid;
+ grid-template-columns: auto auto auto;
+}
+h3{
+    margin-left: 25%;
+    margin-top: 5%;
+    font-size: xx-large;
+}
+.exchange{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.buyer{
+    width:500px;
+}
+.seller{
+    width:500px;
+}
+.greenhouse{
+    width:75px;
+}
+.house1{
+    width:450px;
+}
+.house2{
+    width:400px;
+}
+.house3{
+    width: 400px;
+}
+.houses{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    margin-top: 5%;
+}
+.learning{
+    display:flex;
+    margin-top: 10%;
+}
+.paragraph{
+    margin-left: 14%;
+    
+}
+p5{
+    font-size: larger;
+}
+.green2{
+    margin-top: 5%;
+    width:100px;
+    margin-left: 25%;
+}
+.newyork{
+    width:400px;
+    height:600px;
+    object-fit: cover;
+}
+.purchase{
+    position: relative;
+    top:58%;
+    right:16px;
+}
+.melanin{
+    width:400px;
+    height:600px;
+    object-fit: cover;
+}
+.whites{
+    width:400px;
+    height:600px;
+    object-fit: cover;
+}
+.container{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 7%;
+    
+}
+.statistics{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 7%;
+}
+.lastpic{
+    width:800px;
+    height:200px;
+    object-fit: cover;
+    margin-top: 9%;
+}
+.lastparagraph{
+    margin-top: 10%;
+    display: grid;
+    
+}
+.buttonandemail{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.footpic{
+    width:110px;
+}
+.footerdetails{
+    display: grid;
+    grid-template-columns:auto auto auto auto ;
+}
+.estate{
+    object-fit: cover;
+
+}
+@media screen and (max-width: 480px){
+    .navlogo{
+        width: 100px;
+    }
+    #navdetails{
+        -webkit-text-fill-color: rgb(39, 38, 38);
+    }
+    .NAVBAR{
+        display:grid;
+        grid-template-columns: auto;
+    }
+    
+    a{
+        padding: 20px;
+    }
+    .bluebutton{
+        align-self: center;
+        margin-top: 3%;
+        margin-left:0%;
+    }
+    .beachhouse{
+        border-radius: 20%,20%,;
+        margin-left: 0%;
+        width: 100px;
+        height:100px;
+        margin-top: 3%;
+    }
+    .trust{
+        width:100px
+    }
+    .reviews{
+     display: grid;
+     grid-template-columns: auto;
+    }
+    h3{
+        margin-left: 0%;
+        margin-top: 5%;
+        font-size: xx-large;
+    }
+    .exchange{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .buyer{
+        width:100px;
+    }
+    .seller{
+        width:100px;
+    }
+    .greenhouse{
+        width:75px;
+    }
+    .house1{
+        width:100px;
+    }
+    .house2{
+        width:100px;
+    }
+    .house3{
+        width: 100px;
+    }
+    .listings{
+        display: grid;
+        grid-template-columns:auto ;
+    }
+    .learning{
+        display:flex;
+        margin-top: 10%;
+    }
+    .paragraph{
+        margin-left: 0%;
+        
+    }
+    p5{
+        font-size: larger;
+    }
+    .green2{
+        margin-top: 5%;
+        width:100px;
+        margin-left: 0%;
+    }
+    .newyork{
+        width:100px;
+        height:100px;
+        object-fit: cover;
+    }
+    
+    }
+    .melanin{
+        width:100px;
+        height:100px;
+        object-fit: cover;
+    }
+    .whites{
+        width:100px;
+        height:100px;
+        object-fit: cover;
+    }
+    .container{
+        display:grid;
+        grid-template-columns: auto ;
+        margin-top: 7%;
+        
+    }
+    .statistics{
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-top: 7%;
+    }
+    .lastpic{
+        width:100px;
+        height:100px;
+        object-fit: cover;
+        margin-top: 9%;
+    }
+    .lastparagraph{
+        margin-top: 10%;
+        display: grid;
+        
+    }
+    .buttonandemail{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .footpic{
+        width:100px;
+    }
+    .footerdetails{
+        display: grid;
+        grid-template-columns:auto auto  ;
+    }
+    .estate{
+        object-fit: cover;
+}
+
+
+    
+
+
+
+    
